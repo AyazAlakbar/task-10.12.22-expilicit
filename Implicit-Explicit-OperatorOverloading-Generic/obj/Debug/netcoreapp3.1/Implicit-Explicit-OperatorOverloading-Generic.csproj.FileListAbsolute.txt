@@ -1,0 +1,14 @@
+C:\Users\ProBook\Desktop\Implicit-Explicit-OperatorOverloading-Generic\Implicit-Explicit-OperatorOverloading-Generic\bin\Debug\netcoreapp3.1\Implicit-Explicit-OperatorOverloading-Generic.exe
+C:\Users\ProBook\Desktop\Implicit-Explicit-OperatorOverloading-Generic\Implicit-Explicit-OperatorOverloading-Generic\bin\Debug\netcoreapp3.1\Implicit-Explicit-OperatorOverloading-Generic.deps.json
+C:\Users\ProBook\Desktop\Implicit-Explicit-OperatorOverloading-Generic\Implicit-Explicit-OperatorOverloading-Generic\bin\Debug\netcoreapp3.1\Implicit-Explicit-OperatorOverloading-Generic.runtimeconfig.json
+C:\Users\ProBook\Desktop\Implicit-Explicit-OperatorOverloading-Generic\Implicit-Explicit-OperatorOverloading-Generic\bin\Debug\netcoreapp3.1\Implicit-Explicit-OperatorOverloading-Generic.runtimeconfig.dev.json
+C:\Users\ProBook\Desktop\Implicit-Explicit-OperatorOverloading-Generic\Implicit-Explicit-OperatorOverloading-Generic\bin\Debug\netcoreapp3.1\Implicit-Explicit-OperatorOverloading-Generic.dll
+C:\Users\ProBook\Desktop\Implicit-Explicit-OperatorOverloading-Generic\Implicit-Explicit-OperatorOverloading-Generic\bin\Debug\netcoreapp3.1\Implicit-Explicit-OperatorOverloading-Generic.pdb
+C:\Users\ProBook\Desktop\Implicit-Explicit-OperatorOverloading-Generic\Implicit-Explicit-OperatorOverloading-Generic\obj\Debug\netcoreapp3.1\Implicit-Explicit-OperatorOverloading-Generic.csproj.AssemblyReference.cache
+C:\Users\ProBook\Desktop\Implicit-Explicit-OperatorOverloading-Generic\Implicit-Explicit-OperatorOverloading-Generic\obj\Debug\netcoreapp3.1\Implicit-Explicit-OperatorOverloading-Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ProBook\Desktop\Implicit-Explicit-OperatorOverloading-Generic\Implicit-Explicit-OperatorOverloading-Generic\obj\Debug\netcoreapp3.1\Implicit-Explicit-OperatorOverloading-Generic.AssemblyInfoInputs.cache
+C:\Users\ProBook\Desktop\Implicit-Explicit-OperatorOverloading-Generic\Implicit-Explicit-OperatorOverloading-Generic\obj\Debug\netcoreapp3.1\Implicit-Explicit-OperatorOverloading-Generic.AssemblyInfo.cs
+C:\Users\ProBook\Desktop\Implicit-Explicit-OperatorOverloading-Generic\Implicit-Explicit-OperatorOverloading-Generic\obj\Debug\netcoreapp3.1\Implicit-Explicit-OperatorOverloading-Generic.csproj.CoreCompileInputs.cache
+C:\Users\ProBook\Desktop\Implicit-Explicit-OperatorOverloading-Generic\Implicit-Explicit-OperatorOverloading-Generic\obj\Debug\netcoreapp3.1\Implicit-Explicit-OperatorOverloading-Generic.dll
+C:\Users\ProBook\Desktop\Implicit-Explicit-OperatorOverloading-Generic\Implicit-Explicit-OperatorOverloading-Generic\obj\Debug\netcoreapp3.1\Implicit-Explicit-OperatorOverloading-Generic.pdb
+C:\Users\ProBook\Desktop\Implicit-Explicit-OperatorOverloading-Generic\Implicit-Explicit-OperatorOverloading-Generic\obj\Debug\netcoreapp3.1\Implicit-Explicit-OperatorOverloading-Generic.genruntimeconfig.cache
