@@ -20,21 +20,23 @@ namespace Implicit_Explicit_OperatorOverloading_Generic
             #endregion
 
             
-            Employee employee1 = new Employee("Aras","Alakbarzade",2016,2000);
-            DateTime date1 = DateTime.Now.AddYears();
+            Employee employee1 = new Employee("Aras","Alakbarzade",new DateTime(2016,04,18),2000);
+           
+            //employee1.BirthDay = DateTime.Now.AddYears(-10);
           
-            Employee employee2 = new Employee("Azer","Alakbarzade", 2018,2200);
+            Employee employee2 = new Employee("Azer","Alakbarzade",new DateTime(2018,05,14),2200);
+            //employee2.BirthDay = DateTime.Now.AddYears(-12);    
             
             
 
-            Console.WriteLine(employee1<=employee2);
+            Console.WriteLine(employee1>=employee2);
 
             Employee[] employees = { employee1, employee2 };
 
             Array.Sort(employees);
             foreach (var items in employees)
             {
-                Console.WriteLine(items);
+                Console.WriteLine(items.BirthDay);
             }  
         }
 

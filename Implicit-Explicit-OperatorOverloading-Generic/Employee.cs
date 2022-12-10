@@ -16,7 +16,7 @@ namespace Implicit_Explicit_OperatorOverloading_Generic
         public int Salary { get; set; }
 
 
-        public Employee(string name, string surname, DateTime birthday, int salary)
+        public Employee(string name, string surname,DateTime birthday, int salary)
         {
         Name = name;
         Surname = surname;
